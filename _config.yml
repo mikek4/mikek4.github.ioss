@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Altered Path
 header-img: img/home-bg.png
 email: mike.katz@outlook.com
 copyright_name: mikek4
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Changing My Career
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: michaelrkatz
 github_username:  mikek4
